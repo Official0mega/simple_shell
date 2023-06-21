@@ -18,16 +18,17 @@
  - [Contributors/Authors]
 
 ## File Structure :wrench:
---- | --- | ---|<br>
-|['README.md'](./README.md) | A Descriptive Illustration about the ALX-SE Shell_Project |<br>
-|['prompt.c'](./prompt.c) | A function that prints '$' to standard output |<br>
-|['Contributors_Authors'](./Contributors_Authors) | contributors who engaged in Creating this ALX-SE Simple Shell Project |<br>
-|['man_1_simple_shell'](./man_1_simple_shell) | SImple SHell is a command language interpreter that executes
-commands read from the standard input or from a file | <br>
-|['record_history.c'](./record_history.c) | This write file with user inputs |<br>
-|['path_finder.c'](./path_finder.c) | Search In $PATH for executable command |<br>
-|['string_handlers_functions_1.c'](./string_handlers_functions_1.c) | a function that writes the character to stdout |<br>
-|['memory_handlers.c'](./memory_handlers.c) | this reallocates a memory block using malloc and free |<br>
+| File Name                                     | Description                                                          |
+|-------------------------------------------|--------------------------------------------------------------------|
+| [README.md](README.md)                 | A Descriptive Illustration about the ALX-SE Shell_Project       |
+| [prompt.c](prompt.c)                        | A function that prints '$' to standard output                          |
+| [Contributors_Authors](Contributors_Authors) | Contributors who engaged in Creating this ALX-SE Simple Shell Project |
+| [man_1_simple_shell](man_1_simple_shell)         | Simple SHell is a command language interpreter that executes commands read from the standard input or from a file |
+| [record_history.c](record_history.c)            | This writes file with user inputs                                          |
+| [path_finder.c](path_finder.c)                      | Search in $PATH for executable command                                |
+| [string_handlers_functions_1.c](string_handlers_functions_1.c) | A function that writes the character to stdout          |
+| [memory_handlers.c](memory_handlers.c)            | This reallocates a memory block using malloc and free                    |
+
 
 
 ## Mandatory Tasks :bulb:
